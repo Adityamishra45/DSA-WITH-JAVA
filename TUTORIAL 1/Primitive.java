@@ -5,7 +5,7 @@ public class Primitive {
     public static void main(String[] args) {
         // int rollno = 1;
         // char c = 'l';  //for character we use only single quote.
-        // float f = 25.5f;  //all the decimal numbers are stored in double value by default , so convert in float we use f here.
+        // float f = 25.5f;  //all the decimal numbers are stored in double value by default , so to convert in float we use f here.
         // double d = 6865186158.77357;  //used for large decimal numbers.
         // long l = 644441519191003611L; //used for large integer numbers.
         // boolean check = false; 
