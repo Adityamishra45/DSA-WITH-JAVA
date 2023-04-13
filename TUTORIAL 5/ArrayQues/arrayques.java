@@ -23,7 +23,7 @@ public class arrayques
             }
         }
         
-        System.out.println(ar.get(0));
+        System.out.print(ar.get(0)+" ");
             int last = (int) ar.get(ar.size() - 1);
             // System.out.println(last);
         return last;
