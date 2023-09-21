@@ -1,0 +1,7 @@
+Types of inheritance
+
+1. Single inheritance (Like we did previously)
+2. Multi-level inheritance (One derived child class can inherit the properties of the base class and another class can inherit the properties of the derived child class.)
+3. Multiple inheritance (When one class is extending more than one class. But it is not supported in Java.)
+4. Hierarchical inheritance (One class is inherited by many classes)
+5. Hybrid inheritance (Combination of single and multiple inheritance. But not supported in Java)
